@@ -1,3 +1,3 @@
 ### Hi ~ 👋
 
-I'm Leo, a Web Developer from Tencent.
+**I'm Leo, a Web Developer from Tencent.**
